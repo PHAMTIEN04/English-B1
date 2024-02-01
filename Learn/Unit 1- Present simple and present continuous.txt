@@ -12,6 +12,9 @@ Ex: You play chess with 32 pieces.
 Note:
 O,S,CH,X,SH,Z => ES
 =>S != ES
+*Vocabulary
++ rarely : Hiếm khi
++ seldom : Hầu như không
 
 Present Continuous:
 *Use
@@ -36,7 +39,7 @@ have		prefer		want
 [A] Look at the pictures of Helen ad use prompts to write sentences.Use the
 correct form of the present simple.
 1. Every day, Helen gets up at half past seven.
-2. Helen oftens eat fast food for lunch.
+2. Helen often eat fast food for lunch.
 3. In the evening, Helen usually meets for friends for coffe.
 4. Once a week, Halen watches a film at the cinema.
 5. Halen rarely goes to the gym.
